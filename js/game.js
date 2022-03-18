@@ -41,7 +41,7 @@ class GameScreen extends Phaser.Scene {
     }
 
     preload() {
-
+        // intended
     }
 
     create() {
